@@ -1,6 +1,6 @@
 <h1 align="center">👾I'm Hemanth Karthikeya👾</h1>
 <!-- <h3 align="center">A passionate developer interested in all things computers</h3> -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&vCenter=true&random=false&width=800&lines=A+Passionate+Developer;Problem+solver;Fast+learner;Detail-oriented+creator" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&vCenter=true&random=false&width=800&lines=A+Passionate+Developer;Problem+solver;Fast+learner;" alt="Typing SVG" /></a>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saphereye&theme=onedark" alt="saphereye" /></a> </p> -->
 [![Linkedin: Hemanth Karthikeya](https://img.shields.io/badge/-Sw!tchBlade-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hemanth-karthikeya-ganti-7a673a19a/)](https://www.linkedin.com/in/hemanth-karthikeya-ganti-7a673a19a/)
