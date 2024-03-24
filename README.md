@@ -3,7 +3,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&vCenter=true&random=false&width=800&lines=A+Passionate+Developer;Problem+solver;Fast+learner;" alt="Typing SVG" /></a>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saphereye&theme=onedark" alt="saphereye" /></a> </p> -->
-<img align="middle" alt="GIF" src="code.gif" width="350" height="224" />
+<img align="right" alt="GIF" src="code.gif" width="350" height="224" />
 
 A 2nd Year Student at Birla Institute Of Technology & Sciences,Pilani,Hyderabad Campus
 
