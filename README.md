@@ -34,7 +34,7 @@ A 2nd Year Student at Birla Institute Of Technology & Sciences,Pilani,Hyderabad 
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/js/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/javascript.svg" alt="javascript" height="40" width="40" /></a>
-<a href="https://www.w3schools.com/django/django_intro.php" target="blank"><img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" height="40" width="40" /></a>
+<a href="https://www.w3schools.com/django/django_intro.php" target="blank"><img src="https://cdn.iconscout.com/icon/free/png-256/free-django-3550620-2970205.png" alt="django" height="40" width="40" /></a>
 
 
 </p>
