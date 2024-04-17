@@ -9,7 +9,7 @@ A 2nd Year Student at Birla Institute Of Technology & Sciences,Pilani,Hyderabad 
 
 - 🔭 Upskilling
 - 💻 Linux enthusiast(Ubuntu and ZorinOS)
-- 🌱 I’m currently learning **PostgreSQL,MATLAB and Pytorch**
+- 🌱 I’m currently learning **Svelte,TensorFlow and Pytorch**
 - 👨‍💻 All of my projects are available at [https://github.com/HemanthK-12](https://github.com/HemanthK-12)
 - 📫 Email me at **hemanthkarthikeya12@gmail.com**
 
