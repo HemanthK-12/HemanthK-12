@@ -5,11 +5,11 @@
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saphereye&theme=onedark" alt="saphereye" /></a> </p> -->
 <img align="right" alt="GIF" src="code.gif" width="350" height="224" />
 
-A 2nd Year Student at Birla Institute Of Technology & Sciences,Pilani,Hyderabad Campus
+A 3rd Year Student at Birla Institute Of Technology & Sciences,Pilani,Hyderabad Campus
 
 - 🔭 Upskilling
-- 💻 Linux enthusiast(Ubuntu and ZorinOS)
-- 🌱 I’m currently learning **Svelte,TensorFlow and Pytorch**
+- 💻 Linux enthusiast(Currently trying Deepin' and ZorinOS)
+- 🌱 I’m currently learning **Svelte,Flutter and Tailwind CSS**
 - 👨‍💻 All of my projects are available at [https://github.com/HemanthK-12](https://github.com/HemanthK-12)
 - 📫 Email me at **hemanthkarthikeya12@gmail.com**
 
